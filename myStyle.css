@@ -107,6 +107,12 @@ body{
     font-size: 1.5rem;
 }
 
+.text-subTitle4{
+    font-family:'YunChorokwoosanEoriniMinguk';
+    font-weight:80;
+    font-size: 1.2rem;
+}
+
 .text-normal{
     font-family:'BonmyeongjoSourceHanSerif';
     font-weight: normal;
@@ -132,4 +138,5 @@ a {
   text-decoration: none; 
   color: inherit;   
 }
+
 
